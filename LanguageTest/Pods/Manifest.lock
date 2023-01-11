@@ -1,0 +1,70 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - ObjectMapper (4.2.0)
+  - ReactiveObjC (3.1.1)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - SnapKit (5.6.0)
+  - SwiftProtobuf (1.20.3)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - ZFPlayer/AVPlayer (4.1.4):
+    - ZFPlayer/Core
+  - ZFPlayer/Core (4.1.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Masonry
+  - ObjectMapper
+  - ReactiveObjC (~> 3.1.1)
+  - Reusable (~> 4.1.2)
+  - SnapKit (~> 5.6.0)
+  - SwiftProtobuf (= 1.20.3)
+  - YYKit
+  - ZFPlayer/AVPlayer (~> 4.0)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - Masonry
+    - ObjectMapper
+    - ReactiveObjC
+    - Reusable
+    - SnapKit
+    - SwiftProtobuf
+    - YYKit
+    - ZFPlayer
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftProtobuf: b02b5075dcf60c9f5f403000b3b0c202a11b6ae1
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  ZFPlayer: 5cf39e8d9f0c2394a014b0db4767b5b5a6bffe13
+
+PODFILE CHECKSUM: 496049c85bbfc53d23a7762c87db3650e02f4215
+
+COCOAPODS: 1.11.3

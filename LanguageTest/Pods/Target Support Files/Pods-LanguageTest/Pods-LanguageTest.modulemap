@@ -1,0 +1,6 @@
+framework module Pods_LanguageTest {
+  umbrella header "Pods-LanguageTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
